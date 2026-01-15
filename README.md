@@ -25,3 +25,29 @@ It allows students to showcase practical work and learning progress.
 ---
 
 📌 Updated on: Day 1
+
+---
+
+## 📅 Day 2 – What is Internship? Paid vs Unpaid
+
+### What is an internship?
+An internship is a short-term practical learning opportunity where students work with a company to gain real-world experience.
+
+### Paid Internship
+- The company provides a stipend or salary
+- Competitive and skill-based
+- Usually offered by startups or companies
+
+### Unpaid Internship
+- No stipend is provided
+- Focus is on learning and experience
+- Common for first-time interns
+
+### What I learned today
+- The difference between paid and unpaid internships
+- Why unpaid internships are acceptable for beginners
+- How internships help in skill development
+
+---
+
+📌 Updated on: Day 2
