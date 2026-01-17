@@ -51,3 +51,25 @@ An internship is a short-term practical learning opportunity where students work
 ---
 
 📌 Updated on: Day 2
+
+---
+
+## 📅 Day 3 – Understanding GitHub Issues Workflow
+
+### What is an Issue workflow?
+An issue workflow explains how a task moves from creation to completion in a project.
+
+### Typical Issue Lifecycle
+- Issue is created to define a task or problem
+- Issue is assigned to a team member
+- Work is done related to the issue
+- Issue is closed after completion
+
+### What I learned today
+- Issues help track work clearly in team projects
+- Closing an issue means the task is completed
+- Issues remain as history even after closing
+
+---
+
+📌 Updated on: Day 3
