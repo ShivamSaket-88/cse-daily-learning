@@ -73,3 +73,27 @@ An issue workflow explains how a task moves from creation to completion in a pro
 ---
 
 📌 Updated on: Day 3
+
+---
+
+## 📅 Day 4 – GitHub Project Boards (Task Tracking)
+
+### What is a Project Board?
+A project board helps track tasks visually using columns like:
+- To Do
+- In Progress
+- Done
+
+### Why project boards are useful
+- Clear visibility of what is pending and completed
+- Helpful for team coordination
+- Easy to understand project progress at a glance
+
+### What I learned today
+- Issues can be linked to a project board
+- Tasks move across columns as work progresses
+- Boards make team work more organized
+
+---
+
+📌 Updated on: Day 4
