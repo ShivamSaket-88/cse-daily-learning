@@ -99,7 +99,7 @@ A project board helps track tasks visually using columns like:
 📌 Updated on: Day 4
 
 
-📅 Day 5 – Understanding GitHub Pull Requests (PR)
+## 📅 Day 5 – Understanding GitHub Pull Requests (PR)
 
 ## What is a Pull Request?
 A **Pull Request (PR)** is a way to propose changes to a repository and request the repository owner or team to review and merge those changes.
