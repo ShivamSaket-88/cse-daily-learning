@@ -97,3 +97,47 @@ A project board helps track tasks visually using columns like:
 ---
 
 📌 Updated on: Day 4
+
+
+📅 Day 5 – Understanding GitHub Pull Requests (PR)
+
+## What is a Pull Request?
+A **Pull Request (PR)** is a way to propose changes to a repository and request the repository owner or team to review and merge those changes.
+
+---
+
+## Why Pull Requests are used
+- To review code before merging
+- To collaborate safely in teams
+- To discuss changes with comments
+- To maintain code quality
+
+---
+
+## Pull Request Workflow
+- Create a new branch
+- Make changes and commit them
+- Push the branch to GitHub
+- Open a Pull Request
+- Review and merge after approval
+
+---
+
+## Key PR Components
+- Title and description
+- Commits included
+- Changed files
+- Review comments
+- Merge button
+
+---
+
+## What I learned today
+- Pull Requests are essential for team collaboration
+- Code review improves project quality
+- PRs keep the main branch stable
+- Discussions can happen directly on code lines
+
+---
+
+📌 Updated on: Day 5
